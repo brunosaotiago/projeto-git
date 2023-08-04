@@ -1,3 +1,3 @@
 Olá esse projeto ensina você a usar o Git
-Rafaela Balerini
+Rafaella Ballerini
 Isso é uma alteração
